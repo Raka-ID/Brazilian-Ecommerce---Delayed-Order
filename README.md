@@ -125,6 +125,3 @@ _Delay_ pengiriman berdampak signifikan pada kepuasan _customer_ dan reputasi ke
 - Integrasi data pelacakan pengiriman secara real-time untuk meningkatkan akurasi prediksi.
 - Mengembangkan sistem rekomendasi untuk mitra logistik berdasarkan kinerja historis.
 - Mengimplementasikan A/B testing untuk mengevaluasi efektivitas notifikasi proaktif kepada _customer_ terkait _delay_ yang diprediksi.
-
-## Author
-Proyek ini dibuat oleh Tim Alpha sebagai bagian dari upaya untuk meningkatkan logistik _e-commerce_ dan pengalaman _customer_.
