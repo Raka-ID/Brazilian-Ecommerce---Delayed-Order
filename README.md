@@ -102,9 +102,6 @@ Berdasarkan analisis yang dilakukan terhadap keterlambatan pengiriman dan dampak
 
 8. **Kerugian Finansial Akibat Keterlambatan**: Kerugian yang diprediksi akibat keterlambatan pengiriman dalam empat bulan ke depan adalah $7.608,83 untuk Agustus, $8.645,75 untuk September, $9.539,64 untuk Oktober, dan $9.856,47 untuk November. Kerugian ini menunjukkan dampak finansial signifikan yang perlu ditangani dengan strategi mitigasi yang tepat.
 
-## Dashboard
-[**Dashboard Tableau**](https://public.tableau.com/views/E-CommerceDashboardDelayDeliveryCase/Page2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) dibuat untuk visualisasi alternatif hasil analisis ini. Bagi yang tertarik dapat melihat visualisasi tersebut untuk mendapatkan wawasan lebih mendalam mengenai keterlambatan pengiriman dan dampaknya. Dashboard ini tidak hanya memberikan visualisasi yang mudah dipahami mengenai tren keterlambatan dan volume pesanan, tetapi juga membantu mengidentifikasi area-area kritis yang memerlukan perhatian lebih.
-
 ## Tools and Libraries
 - **Python**: untuk analisis data dan pemodelan
 - **Jupyter Notebook**: untuk pengembangan kode interaktif
